@@ -1,0 +1,9 @@
+title = "Luigi's Mansion"
+description = "After winning a mansion in a contest he didn’t enter, Luigi must beat its many bosses and puzzles. Follow a map on the touchscreen, shine a flashlight, blow fire, shoot water, stun ghosts, and trap them…before Mario is trapped forever! After beating and capturing boss ghosts, you can select their portraits from the gallery to best your own score in tense rematches—a new feature in the Nintendo 3DS version!"
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001D1900"
+region = "usa"
+release_date = "2018-10-12"
